@@ -13,3 +13,5 @@ console.log(user); // *
 user = {};
 console.log(user); // **
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
